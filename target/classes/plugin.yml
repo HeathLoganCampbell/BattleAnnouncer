@@ -1,0 +1,5 @@
+name: BattleAnnouncer
+description: Announces messages every x minutes
+main: com.battlechunk.announcer.AnnouncerPlugin
+version: 1.0-SNAPSHOT
+authors: [Sprock, SprockPls]

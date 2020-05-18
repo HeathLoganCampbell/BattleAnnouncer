@@ -1,0 +1,10 @@
+com/battlechunk/announcer/commons/EasyConfig.class
+com/battlechunk/announcer/commons/commandframework/Completer.class
+com/battlechunk/announcer/commons/commandframework/CommandFramework.class
+com/battlechunk/announcer/data/Announcement.class
+com/battlechunk/announcer/commons/commandframework/BukkitCommand.class
+com/battlechunk/announcer/config/AnnouncementConfig.class
+com/battlechunk/announcer/commons/commandframework/CommandArgs.class
+com/battlechunk/announcer/commons/commandframework/Command.class
+com/battlechunk/announcer/AnnouncerPlugin.class
+com/battlechunk/announcer/commons/commandframework/BukkitCompleter.class
